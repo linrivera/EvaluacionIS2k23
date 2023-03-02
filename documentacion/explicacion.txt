@@ -1,0 +1,13 @@
+Componente: Navegador
+Nombre: Joselyne Rivera
+Carnet: 0901-17-5
+Fecha: 2/03/2023
+Hora: 10:30 A.M.
+
+Para la ejecucion del programa se debe de complilar los componentes en el 
+siguiente orden:
+
+Consultas
+Reporteador
+Seguridad 
+Navegador
